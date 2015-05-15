@@ -1,4 +1,4 @@
-# BrainFuck-Interpreter
+# BrainFuck Interpreter
 An anti-recursive interpreter for the BrainFuck programming language.
 
 Includes two test cases found on the BrainFuck Wiki and on SE Programming Puzzles / Code Golf:
